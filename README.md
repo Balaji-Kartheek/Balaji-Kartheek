@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-kartheek&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-kartheek" /> </p>
 
-- 🌱 I’m currently learning **MLOPs, Django framework...**
+- 🌱 I’m currently learning **MLOPs, Flask framework...**
 
 - 👯 I’m looking to collaborate on **Data Science related projects**
 
