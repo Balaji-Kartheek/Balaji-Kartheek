@@ -1,7 +1,10 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://Balaji-Kartheek.io)
 <h1 align="center">Hola, 👋 I'm Balaji Kartheek</h1>
 <h3 align="center">A third-year Undergrad Student pursuing my Btech in Data Science from Manipal Institute of Technology. I enjoy being a part of new technologies and trying out innovative solutions. I'm especially interested in artificial intelligence after learning about machine learning and Deep Learning in my studies, and I'm eager to use AI in a more practical capacity.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
+
+
+<!-- <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif"> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-kartheek&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-kartheek" /> </p>
 
